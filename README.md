@@ -20,4 +20,12 @@
  
 ##### As expert sources, I incorporated in the story quotes from two individuals: Michael Rekart, MD, a Canadian-based infectious disease researcher, and Timothy Inguyen, a health practitioner at the Glenn Center in Oakland, California. 
 
-##### Datasets used for the analysis were sourced from theCalifornia Department of Public Health, STD Control Branch (data as reported through 3/22/2022), State of California, Department of Finance, Report P-3: State and County Population Projections by Race/Ethnicity, Detailed Age, and Gender, 2010-2060, Baseline 2019.  Sacramento, California, January 2020.The first database was compiled as .xlsx files here and the second, here.
+##### Datasets used for the analysis were sourced from theCalifornia Department of Public Health, STD Control Branch (data as reported through 3/22/2022), State of California, Department of Finance, Report P-3: State and County Population Projections by Race/Ethnicity, Detailed Age, and Gender, 2010-2060, Baseline 2019.  Sacramento, California, January 2020.The first database was compiled as .csv files here and the second, here.
+
+### Data Analysis 
+
+### Top 10 Counties in California with high cases of Syphilis
+
+
+
+
