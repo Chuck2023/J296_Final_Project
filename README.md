@@ -27,6 +27,7 @@
 ### Top 10 Counties in California with high cases of Syphilis
 
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/raw/dd8b78485adb32a91304ce83729b6d4a5ce7aef2/Screenshot%202023-04-24%20at%2010.58.34%20AM.png)
+###### *Sheet used: [Cases in Descending Order Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet.](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)
 
 
 
