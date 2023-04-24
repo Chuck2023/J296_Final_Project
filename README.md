@@ -26,7 +26,7 @@
 
 ### Top 10 Counties in California with high cases of Syphilis
 
-!['10 counties with high Syphilis rate','2020 data set'](/Table on Counties with highest cases.png)
+![Screenshot](https://github.com/Chuck2023/J296_Final_Project/raw/dd8b78485adb32a91304ce83729b6d4a5ce7aef2/Screenshot%202023-04-24%20at%2010.58.34%20AM.png)
 
 
 
