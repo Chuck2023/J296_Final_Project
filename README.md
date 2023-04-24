@@ -1,4 +1,4 @@
-# Minority communities disproportionaley impacted by California's looming Syphilis crisis 
+# Intersecting race and sexuality in California's looming Syphilis crisis 
 
 ### *In 2021, 40% of all cases of P&S syphilis were among non-Hispanic Black persons, even though they made up only approximately 18 percent of the US population. Further, almost 40% of MSM reported with P&S syphilis were Black.*
 
@@ -10,7 +10,7 @@
  
 ##### "I don't know what this is,” he said. “My nurse says I will be fine once I get the injection, but I'm back here again - it's reinfection or something.”
  
-##### Danny, 30-year-old who works as a veterinarian in downtown Oakland , is part of a sexual minority group experts say is affected by a disease that is on the rise nationally, with repeat infections happening among some groups in particular, according to recent research carried out by UCSF researchers. Some experts, like, Michael Rekart, MD, of the University of British Columbia, School of Population and Public Health say that the reason repeat syphilis is now on the rise is due to incomplete treatment, risky sexual behaviors, and because HIV treatment and prevention has eclipsed prevention of other STIs.
+##### Danny, 30-year-old who works as a veterinarian in downtown Oakland , is part of a racial and sexual minority group experts say is affected by a disease that is on the rise nationally, with repeat infections happening among some groups in particular, according to recent research carried out by UCSF researchers. Some experts, like, Michael Rekart, MD, of the University of British Columbia, School of Population and Public Health say that the reason repeat syphilis is now on the rise is due to incomplete treatment, risky sexual behaviors, and because HIV treatment and prevention has eclipsed prevention of other STIs.
  
 ##### “The widespread availability of HIV treatment makes people believe the effects of HIV are less severe,” he said. “Antiretroviral drugs and PREP have let Syphilis on the loose.”
  
