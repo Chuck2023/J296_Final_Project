@@ -1,6 +1,6 @@
-# How health inequality among risk populations mirror's California's looming Syphilis crisis 
+# Minority communities disproportionaley impacted by California's looming Syphilis crisis 
 
-### *In 2021, 31% of all cases of chlamydia, gonorrhea, and P&S syphilis were among non-Hispanic Black persons, even though they made up only approximately 12% of the US population.Further, almost 40% of MSM reported with P&S syphilis had been diagnosed with HIV.*
+### *In 2021, 40% of all cases of P&S syphilis were among non-Hispanic Black persons, even though they made up only approximately 18 percent of the US population. Further, almost 40% of MSM reported with P&S syphilis were Black.*
 
 #### By Charles Ayitey
 
@@ -29,6 +29,12 @@
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/raw/dd8b78485adb32a91304ce83729b6d4a5ce7aef2/Screenshot%202023-04-24%20at%2010.58.34%20AM.png)
 ##### *Sheet used: [Cases in Descending Order Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet.](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
+
+### Data Analysis
+
+### Racial distribution of 2020 California Syphilis Case (Raw Data)
+! [Screenshot](https://github.com/Chuck2023/J296_Final_Project/blob/7f088d4243b1d4af2fba01544f729c5148e19d47/Screenshot%202023-04-24%20at%204.22.26%20PM.png)
+##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
 
