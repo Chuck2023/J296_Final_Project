@@ -33,7 +33,7 @@
 ### Data Analysis
 
 ### Racial distribution of 2020 California Syphilis Case (Raw Data)
-! [Screenshot](https://github.com/Chuck2023/J296_Final_Project/blob/7f088d4243b1d4af2fba01544f729c5148e19d47/Screenshot%202023-04-24%20at%204.22.26%20PM.png)
+![Screenshot](https://github.com/Chuck2023/J296_Final_Project/blob/7f088d4243b1d4af2fba01544f729c5148e19d47/Screenshot%202023-04-24%20at%204.22.26%20PM.png)
 ##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
