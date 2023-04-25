@@ -37,6 +37,9 @@
 ##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
+### Data Visualisation
+
+<iframe title="Distribution of Syphilis Cases in California Counties" aria-label="Interactive area chart" id="datawrapper-chart-vBIlP" src="https://datawrapper.dwcdn.net/vBIlP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
 
 
 
