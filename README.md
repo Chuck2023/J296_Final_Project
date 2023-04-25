@@ -39,8 +39,7 @@
 
 ### Data Visualisation
 
-<iframe title="&quot;The Syphilis Crisis: Where California Counties Stand&quot;" aria-label="Map" id="datawrapper-chart-vBIlP" src="https://datawrapper.dwcdn.net/vBIlP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="853" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+![Image](https://github.com/Chuck2023/J296_Final_Project/blob/b532b9f21080d950161727236b742c122471a1d4/-the-syphilis-crisis-where-california-counties-stand-.png)
 
 
 
