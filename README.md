@@ -37,7 +37,7 @@
 ##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
-### Data Visualisation *[Click for Draft]((https://datawrapper.dwcdn.net/vBIlP/1/)*
+### Data Visualisation [Click for Draft](https://datawrapper.dwcdn.net/vBIlP/1/)
 
 ![Image](https://github.com/Chuck2023/J296_Final_Project/blob/b532b9f21080d950161727236b742c122471a1d4/-the-syphilis-crisis-where-california-counties-stand-.png)
 
