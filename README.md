@@ -15,7 +15,15 @@
 ##### Nationally, Syphilis infection rates have been up by 70 percent since 2011, according to the CDC. Men who sleep with men (MSM) account for about 65 percent of these cases - chief obstacle to the goal of eliminating Syphilis in the United States. The data, which excludes non-binary populations, has men leading in all case loads from 2016 to 2020. 
 
 ##### "This is disturbing," said Dr. Stephanie Cohen of the AIDS Prevention Center in San Francisco. "We are seeing a high caseload statewide".
- 
+
+##### The California Department of Public Health has pinpointed Los Angeles and San Francisco as the counties with leading cases. In 2000, syphilis rates were so low that public health officials believed eradication was on the horizon. But rates are on the rise. From 2015 to 2019 alone. In California and the U.S., about half of syphilis cases are in men who have sex with men. 
+![Image](https://github.com/Chuck2023/J296_Final_Project/blob/a223b38042a845b2f5a16b97029c7990ba51420a/Screenshot%20Data%20Wrapper%20Map.png)
+
+##### Several factors account for the rise in cases. Timothy Nguyen - a sexual health provider at the Oakland LGBTQ Center says more than a third of Black women in California who have syphilis also use meth, which has surged in recent years. These trends, he believes, have caused overall national cases of sexually transmitted diseases to hit an all-time high for the last six years in a row, reaching 2.5 million. 
+
+##### "And the consequences are now trickling down to babies, who are contracting syphilis from their mothers," he said. "Congenital syphilis rates nearly quadrupled between 2012 and 2019."
+
+
 ##### A single injection of long-acting Benzathine penicillin G cures the early and late stages of Syphilis. CDC recommends three doses of long-acting Benzathine penicillin G at weekly intervals for late latent Syphilis or unknown duration. If left untreated, it can cause damage to the heart, brain and other organs.
  
 ##### As expert sources, I incorporated in the story quotes from two individuals: [Michael Rekart, MD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537507/), a Canadian-based infectious disease researcher, and Timothy Inguyen, a health practitioner at the Glenn Center in Oakland, California. 
