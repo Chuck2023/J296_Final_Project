@@ -23,6 +23,13 @@
 
 ##### "And the consequences are now trickling down to babies, who are contracting syphilis from their mothers," he said. "Congenital syphilis rates nearly quadrupled between 2012 and 2019."
 
+### Case Load and Racial Disparities 
+
+##### Overall, the data suggest disparities in the incidence of this condition across different racial/ethnic groups, with the Hispanic/Latino group and the White group having the highest number of reported cases. The data also indicates that there have been overall increases in reported cases across all groups from 2016 to 2019, followed by a slight decrease in 2020.
+
+##### Regarding the change in reported cases from 2016 to 2020, the Asian/Pacific Islander group had the most significant increase, with a 24.3% rise in reported cases, while the Black/African American group had the smallest increase, with a 23.7% rise in reported cases. Meanwhile, the White group had the most significant absolute number of cases in all years but saw the smallest increase in reported cases from 2016 to 2020, with a 20.3% rise over the five years. 
+
+
 
 ##### A single injection of long-acting Benzathine penicillin G cures the early and late stages of Syphilis. CDC recommends three doses of long-acting Benzathine penicillin G at weekly intervals for late latent Syphilis or unknown duration. If left untreated, it can cause damage to the heart, brain and other organs.
  
