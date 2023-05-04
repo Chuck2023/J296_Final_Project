@@ -70,4 +70,5 @@
 
 
 ##### *The stacked bar chart presents the number of reported cases of primary and secondary syphilis for six different racial/ethnic groups in California over five years (2016-2020)
+![Image](https://github.com/Chuck2023/J296_Final_Project/blob/2ba49be8f473495ca9ff93a6a04afaa5f34e347f/Screenshot%20Racial%20Distribution.png)
 
