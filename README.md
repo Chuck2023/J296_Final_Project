@@ -39,7 +39,5 @@
 
 ### Data Visualisation [Click for Draft](https://datawrapper.dwcdn.net/vBIlP/1/)
 
-![Image](https://github.com/Chuck2023/J296_Final_Project/blob/b532b9f21080d950161727236b742c122471a1d4/-the-syphilis-crisis-where-california-counties-stand-.png)
-
-
+![Image](https://github.com/Chuck2023/J296_Final_Project/blob/a223b38042a845b2f5a16b97029c7990ba51420a/Screenshot%20Data%20Wrapper%20Map.png)
 
