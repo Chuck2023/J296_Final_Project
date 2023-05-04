@@ -4,8 +4,6 @@
 
 #### By Charles Ayitey
 
-### Story Draft
-
 ##### On any given day, Antonio Hardison, who prefers to be called Danny, is busy advising animal owners on proper nutrition, exercise, and other aspects of animal care - a job he considers a hobby for a dog lover. But for some weeks, he has been in and out of the Oakland LGBTQ center for his Syphilis treatment. Earlier this year, he took his final injection for a Syphilis infection that had recurred twice in just a year.
  
 ##### "I don't know what this is,” he said. “My nurse says I will be fine once I get the injection, but I'm back here again - it's reinfection or something.”
@@ -14,7 +12,9 @@
  
 ##### “The widespread availability of HIV treatment makes people believe the effects of HIV are less severe,” he said. “Antiretroviral drugs and PREP have let Syphilis on the loose.”
  
-##### Nationally, Syphilis infection rates have been up by 70 percent since 2011, according to the CDC. Men who sleep with men (MSM) account for about 65 percent of these cases - chief obstacle to the goal of eliminating Syphilis in the United States.
+##### Nationally, Syphilis infection rates have been up by 70 percent since 2011, according to the CDC. Men who sleep with men (MSM) account for about 65 percent of these cases - chief obstacle to the goal of eliminating Syphilis in the United States. The data, which excludes non-binary populations, has men leading in all case loads from 2016 to 2020. 
+
+##### "This is disturbing," said Dr. Stephanie Cohen of the AIDS Prevention Center in San Francisco. "We are seeing a high caseload statewide".
  
 ##### A single injection of long-acting Benzathine penicillin G cures the early and late stages of Syphilis. CDC recommends three doses of long-acting Benzathine penicillin G at weekly intervals for late latent Syphilis or unknown duration. If left untreated, it can cause damage to the heart, brain and other organs.
  
