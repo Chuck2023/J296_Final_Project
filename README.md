@@ -31,21 +31,29 @@
 
 ![Image](https://github.com/Chuck2023/J296_Final_Project/blob/2ba49be8f473495ca9ff93a6a04afaa5f34e347f/Screenshot%20Racial%20Distribution.png)
 
+##### Data on repeat syphilis is scarce according to the California Department of Public Health, but syphilis is on the rise here and nationally, and California has the added problem of repeat syphilis due to local challenges. Experts like Oakland LGBTQ Center health care provider Timothy Nguyen say the long unrecognized problem is attributable to too few sexual health clinics locally, long wait times, insufficient time for patients to meet with providers, and stigma. As a result, people with syphilis don’t get the care they need, and the infection comes back again and again, especially for those who are Black and brown. 
+
+##### “I am seeing the Black and Latinx community largely impacted by this,” said Nguyen. “Most patients with repeat syphilis are either Black or Latinx.”
+
+##### Danny, a local patient who shares equal concern is worried about what this means for his community, as he himself has seen more and more of his friends with the disease. Even though local studies show California’s rate of syphilis relatively low for the black and community, Nguyen and others say those statistics, don’t line up with what they are seeing today in California.
+
 ##### A single injection of long-acting Benzathine penicillin G cures the early and late stages of Syphilis. CDC recommends three doses of long-acting Benzathine penicillin G at weekly intervals for late latent Syphilis or unknown duration. If left untreated, it can cause damage to the heart, brain and other organs.
- 
-##### As expert sources, I incorporated in the story quotes from two individuals: [Michael Rekart, MD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537507/), a Canadian-based infectious disease researcher, and Timothy Inguyen, a health practitioner at the Glenn Center in Oakland, California. 
 
-##### Datasets used for the analysis were sourced from theCalifornia Department of Public Health, STD Control Branch (data as reported through 3/22/2022), State of California, Department of Finance, Report P-3: State and County Population Projections by Race/Ethnicity, Detailed Age, and Gender, 2010-2060, Baseline 2019.  Sacramento, California, January 2020.The first database was compiled as .csv files here and the second, here.
 
-### Data Analysis 
+### Data Analysis - Qualitative
+
+##### As expert sources, I incorporated in the story quotes from three experts: [Michael Rekart, MD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537507/), a Canadian-based infectious disease researcher,[Timothy Inguyen]((https://www.oaklandlgbtqcenter.org/staff), a health practitioner at the Glenn Center in Oakland, California and [Stephanie Cohen MD]((https://profiles.ucsf.edu/stephanie.cohen), lead researcher in sexual health at the University of San Francisco.
+
+##### Datasets used for the analysis were sourced from the California Department of Public Health, STD Control Branch (data as reported through 3/22/2022), State of California, Department of Finance, Report P-3: State and County Population Projections by Race/Ethnicity, Detailed Age, and Gender, 2010-2060, Baseline 2019.  Sacramento, California, January 2020.The first database was compiled as .csv files here and the second, here.
+
+### Data Analysis - Quantitative
 
 ### Top 10 Counties in California with high cases of Syphilis
-
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/raw/dd8b78485adb32a91304ce83729b6d4a5ce7aef2/Screenshot%202023-04-24%20at%2010.58.34%20AM.png)
+##### Created a pivot table using Entity Country as row and (unique) client IDs and Sum of Entity Contribution as values.
+Copied the resultant table and pasted it in a new tab. Sorted to find the highest values.
+
 ##### *Sheet used: [Cases in Descending Order Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet.](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
-
-
-### Data Analysis
 
 ### Racial distribution of 2020 California Syphilis Case (Raw Data)
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/blob/7f088d4243b1d4af2fba01544f729c5148e19d47/Screenshot%202023-04-24%20at%204.22.26%20PM.png)
