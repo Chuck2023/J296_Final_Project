@@ -50,13 +50,14 @@
 
 ### Top 10 Counties in California with high cases of Syphilis
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/raw/dd8b78485adb32a91304ce83729b6d4a5ce7aef2/Screenshot%202023-04-24%20at%2010.58.34%20AM.png)
-##### Created a pivot table using County as row and (unique) client IDs and Sum of Entity Contribution as values.
-Copied the resultant table and pasted it in a new tab. Sorted to find the highest values.
+##### Created a pivot table using County as row and (unique) cases as values.Copied the resultant table and pasted it in a new tab. Sorted to find the top 10 values.
 
 ##### *Sheet used: [Cases in Descending Order Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet.](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 ### Racial distribution of 2020 California Syphilis Case (Raw Data)
 ![Screenshot](https://github.com/Chuck2023/J296_Final_Project/blob/7f088d4243b1d4af2fba01544f729c5148e19d47/Screenshot%202023-04-24%20at%204.22.26%20PM.png)
+
+##### 
 ##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
