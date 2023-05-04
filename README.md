@@ -63,12 +63,12 @@
 ##### *Sheet used: [Gender, Race and Ethnicity Tab](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true) from main [data sheet](https://docs.google.com/spreadsheets/d/1ybdrvJRTW-zOerrtgUs66rL6AusCwOfS/edit?usp=sharing&ouid=107250021534490384677&rtpof=true&sd=true)*
 
 
-### Data Visualisation [Click for Draft](https://datawrapper.dwcdn.net/vBIlP/1/)
-##### *This choropleth map displays the rate of Syphilis in each California County Case. The data set is sourced from 2020 Syphilis and STI Data by the CDC, California Public Health Department and National Health Institute.
+### Data Visualisation 
+##### *This choropleth map displays the rate of Syphilis in each California County Case. The data set is sourced from 2020 Syphilis and STI Data by the CDC, California Public Health Department and National Health Institute.[Click for Draft](https://datawrapper.dwcdn.net/vBIlP/1/)
 
 ![Image](https://github.com/Chuck2023/J296_Final_Project/blob/a223b38042a845b2f5a16b97029c7990ba51420a/Screenshot%20Data%20Wrapper%20Map.png)
 
 
-##### *The stacked bar chart presents the number of reported cases of primary and secondary syphilis for six different racial/ethnic groups in California over five years (2016-2020)
+##### *The stacked bar chart presents the number of reported cases of primary and secondary syphilis for six different racial/ethnic groups in California over five years (2016-2020). [Click for Draft](https://datawrapper.dwcdn.net/mcUkP/1/)
 ![Image](https://github.com/Chuck2023/J296_Final_Project/blob/2ba49be8f473495ca9ff93a6a04afaa5f34e347f/Screenshot%20Racial%20Distribution.png)
 
