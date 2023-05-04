@@ -29,7 +29,7 @@
 
 ##### Regarding the change in reported cases from 2016 to 2020, the Asian/Pacific Islander group had the most significant increase, with a 24.3% rise in reported cases, while the Black/African American group had the smallest increase, with a 23.7% rise in reported cases. Meanwhile, the White group had the most significant absolute number of cases in all years but saw the smallest increase in reported cases from 2016 to 2020, with a 20.3% rise over the five years. 
 
-
+![Image](https://github.com/Chuck2023/J296_Final_Project/blob/2ba49be8f473495ca9ff93a6a04afaa5f34e347f/Screenshot%20Racial%20Distribution.png)
 
 ##### A single injection of long-acting Benzathine penicillin G cures the early and late stages of Syphilis. CDC recommends three doses of long-acting Benzathine penicillin G at weekly intervals for late latent Syphilis or unknown duration. If left untreated, it can cause damage to the heart, brain and other organs.
  
