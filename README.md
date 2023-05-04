@@ -1,6 +1,6 @@
-# Intersecting race and sexuality in California's looming Syphilis crisis 
+# Increase in California's Syphilis Rate Mirrors Deepened Racial Health Disparities 
 
-### *In 2021, 40% of all cases of P&S syphilis were among non-Hispanic Black persons, even though they made up only approximately 18 percent of the US population. Further, almost 40% of MSM reported with P&S syphilis were Black.*
+### *In 2021, the LatinX population recorded was most affected by Syphilis with Blacks also recording one-third of cases. Public Health experts are concerned about what they observe as deepened racial disparities in access to preventive sexual health care.
 
 #### By Charles Ayitey
 
